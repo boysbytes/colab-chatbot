@@ -8,3 +8,8 @@ These are chatbots I built on Google Colaboratory. I wanted a way for young lear
 This chatbot implementation uses the Google Gemini API. I see the potential for learners to use this as their personal (and personalized) chatbot that they can use to bounce ideas while they are learning a topic.
 
 Unfortunately, the model is proprietary and there are API usage limits.
+
+## [colab-qwen2.5-chatbot](https://github.com/boysbytes/colab-chatbot/blob/main/colab_qwen2_5_chatbot.ipynb)
+I decided to use the open source qwen2.5 0.5B model for this chatbot. The model is stored on Google Drive for persistent storage.
+
+I'm less confident with the stability and reliability of this implementation.
