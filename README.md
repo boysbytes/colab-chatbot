@@ -15,7 +15,7 @@ I decided to use the open source qwen2.5 0.5B model for this chatbot. The model 
 
 I'm less confident with the stability and reliability of this implementation.
 
-### [colab_rag_chatbot(]https://github.com/boysbytes/colab-chatbot/blob/main/colab_rag_chatbot.ipynb)
+### [colab_rag_chatbot](https://github.com/boysbytes/colab-chatbot/blob/main/colab_rag_chatbot.ipynb)
 Implemented RAG with this chatbot and switched to the open source smollm2 model. 
 
 ## Get Started
