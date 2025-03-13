@@ -5,6 +5,9 @@
 ## Overview
 These are chatbots I built on Google Colaboratory. Each project introduces young learners to generative AI and its underlying frameworks while providing a platform for personal exploration and learning.
 
+### [colab_gemma3_chatbot](https://github.com/boysbytes/colab-chatbot/blob/main/colab_gemma3_chatbot.ipynb)
+Experiment with prompt template, temperature, and maximum token parameters. The model is stored on Google Drive for persistent storage.
+
 ### [colab_api_chatbot.ipynb](https://github.com/boysbytes/colab-chatbot/blob/main/colab_api_chatbot.ipynb)
 This chatbot implementation uses the Google Gemini API. I see the potential for learners to use this as their personal (and personalized) chatbot that they can use to bounce ideas while they are learning a topic.
 
